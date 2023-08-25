@@ -23,11 +23,11 @@ Scikit-learn, also known as sklearn, is a popular machine learning library in Py
 
 ## Usability
 This breast cancer classification program is designed to be user-friendly and efficient. Users can input data related to breast cancer characteristics, and the program will predict whether the cancer is malignant or benign. Here's how you can use it:
-### Input Data: 
+### 1. Input Data: 
 Prepare your data in a structured format. This typically includes features such as tumor size, shape, texture, and other relevant characteristics.
-### Run the Classifier: 
+### 2. Run the Classifier: 
 Execute the machine learning classifier provided in the script. The classifier will use the trained model to predict whether the input data represents malignant or benign breast cancer.
-### Interpret Results: 
+### 3. Interpret Results: 
 Review the model's prediction, which will be either 'Malignant' or 'Benign.' This prediction can help guide medical decisions and further testing.
 
 Please note that while this tool can be a valuable resource, it should not be used as a sole diagnostic method. Always consult with medical professionals for a definitive breast cancer diagnosis.
